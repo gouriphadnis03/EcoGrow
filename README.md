@@ -1,2 +1,10 @@
-# EcoGrow
-Our project stands at the forefront of agricultural innovation, merging traditional farming practices with cutting-edge technology to offer a comprehensive range of services aimed at revolutionizing the agricultural sector. With a primary focus on sustainability, efficiency, and quality, we utilize modern tools such as HTML, CSS, and JavaScript .
+Project Title - EcoGrow
+Project Demo Link -  
+Technology Stack - (1) HTML
+                   (2) CSS
+                   (3) JAVASCRIPT
+Azure technology used for project - 
+Contributer - (1)Gouri phadnis
+              (2)Shubham Raghuwanshi
+              (3)Divyani Upadhyay
+              (4)Anushka Mishra
