@@ -19,8 +19,8 @@ At the core of our project lies a commitment to supporting farmers and empowerin
 
 One of our key services is the provision of Milk Services, where we employ advanced methods for milk production, storage, and distribution. By implementing modern technologies, we ensure that farmers have access to state-of-the-art equipment and practices, resulting in higher-quality milk products. Through our platform, consumers can directly access fresh milk, fostering a direct connection between producers and end-users.
 screenshot:
-Repository link:
-Project demo link
+Repository link:   https://github.com/gouriphadnis03/EcoGrow.git
+Project demo link:
 Contributer - (1)Gouri phadnis (
               (2)Shubham Raghuwanshi
               (3)Divyani Upadhyay
