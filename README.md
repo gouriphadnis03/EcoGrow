@@ -22,7 +22,7 @@ screenshot: (https://github.com/gouriphadnis03/EcoGrow/assets/171165584/8b8176cf
 
 Repository link:   https://github.com/gouriphadnis03/EcoGrow.git
 Project demo link:
-Contributer - (1)Gouri phadnis (
-              (2)Shubham Raghuwanshi
-              (3)Divyani Upadhyay
-              (4)Anushka Mishra
+Contributer - (1)Gouri phadnis (https://github.com/gouriphadnis03)
+              (2)Shubham Raghuwanshi (https://github.com/ShubhamRaghu03)
+              (3)Divyani Upadhyay (https://github.com/divyaniupadhyay)
+              (4)Anushka Mishra (https://github.com/0112IT221013)
